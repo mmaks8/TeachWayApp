@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proto1.LoginPage"
+             Title="TeachWay"
+             Padding="0,20,0,0"
+             BackgroundColor="LightGray">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            
+            Icon="TeachWayLogo.png"
+            Priority="0"
+            />
+        <ToolbarItem
+            
+            Text="Sign up"
+            Clicked="OnSignUpPageButtonClicked"
+            Priority="1"
+            />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Username" PlaceholderColor="Blue" />
+            <Entry Placeholder="Password" PlaceholderColor="Blue" IsPassword="true" />
+            <Button Text="Log in" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Command="{Binding LogInCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
