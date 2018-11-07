@@ -25,10 +25,10 @@ namespace Proto1
 				Username = usernameEntry.Text,
 				Password = passwordEntry.Text,
 				ConfirmPassword = confirmpasswordEntry.Text,
-				Email = emailEntry.Text
+				Email = emailEntry.Text,
 			};
 			
-		var signUpSucceeded = AreDetailsValid (user);
+			var signUpSucceeded = AreDetailsValid (user);
 			if (signUpSucceeded) {
 				var rootPage = Navigation.NavigationStack.FirstOrDefault ();
 				if (rootPage != null) {
