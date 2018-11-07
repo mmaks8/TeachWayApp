@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Proto1.SignUpPage">
-             Title="Sign Up">
+             x:Class="Proto1.SignUpPage"
+             Title="Sign Up"
+	     BackgroundColor="LightGray">
     <ContentPage.Content>
         <StackLayout VerticalOptions="StartAndExpand">
             <Label Text="First Name" />
@@ -12,9 +13,9 @@
             <Label Text="Username" />
             <Entry x:Name="usernameEntry" Placeholder="username" />
             <Label Text="Password" />
-			      <Entry x:Name="passwordEntry" IsPassword="true" />
+		<Entry x:Name="passwordEntry" IsPassword="true" />
             <Label Text="Confirm Password" />
-			      <Entry x:Name="confirmpasswordEntry" IsPassword="true" />
+		<Entry x:Name="confirmpasswordEntry" IsPassword="true" />
             <Label Text="Date Of Birth"></Label>  
             <DatePicker></DatePicker> 
             <Label Text="Email address" />
