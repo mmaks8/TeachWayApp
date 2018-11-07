@@ -2,11 +2,25 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Proto1.SignUpPage">
+             Title="Sign Up">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Signup Page"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout VerticalOptions="StartAndExpand">
+            <Label Text="First Name" />
+            <Entry x:Name="firstnameEntry" Placeholder="firstname" />
+            <Label Text="Last Name" />
+            <Entry x:Name="lastnameEntry" Placeholder="lastname" />
+            <Label Text="Username" />
+            <Entry x:Name="usernameEntry" Placeholder="username" />
+            <Label Text="Password" />
+			      <Entry x:Name="passwordEntry" IsPassword="true" />
+            <Label Text="Confirm Password" />
+			      <Entry x:Name="confirmpasswordEntry" IsPassword="true" />
+            <Label Text="Date Of Birth"></Label>  
+            <DatePicker></DatePicker> 
+            <Label Text="Email address" />
+            <Entry x:Name="emailEntry" />
+            <Button Text="Sign Up" Clicked="OnSignUpButtonClicked" />
+            <Label x:Name="messageLabel" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
