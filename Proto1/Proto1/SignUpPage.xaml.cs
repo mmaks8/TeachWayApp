@@ -24,6 +24,7 @@ namespace Proto1
 				LastName = lastnameEntry.Text,
 				Username = usernameEntry.Text,
 				Password = passwordEntry.Text,
+				ConfirmPassword = confirmpasswordEntry.Text,
 				Email = emailEntry.Text
 			};
 			
@@ -42,7 +43,7 @@ namespace Proto1
 
 		bool AreDetailsValid (User user)
 		{
-			return (!string.IsNullOrWhiteSpace (user.FirstName) !string.IsNullOrWhiteSpace (user.LastName) !string.IsNullOrWhiteSpace (user.Username) && !string.IsNullOrWhiteSpace (user.Password) && !string.IsNullOrWhiteSpace (user.Email) && user.Email.Contains ("@"));
+			return (!string.IsNullOrWhiteSpace (user.FirstName) && !string.IsNullOrWhiteSpace (user.LastName) && !string.IsNullOrWhiteSpace (user.Username) && !string.IsNullOrWhiteSpace (user.Password) && !string.IsNullOrWhiteSpace (user.ConfirmPassword) && !string.IsNullOrWhiteSpace (user.Email) && user.Email.Contains ("@"));
 		}	
 			
 	}
