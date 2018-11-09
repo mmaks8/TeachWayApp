@@ -12,6 +12,9 @@
               <Entry x:Name="LastName" Text="{Binding LastName}" Placeholder="Last Name"   
                            PlaceholderColor="Blue"    
                            Keyboard="Default"  />
+	      <Entry x:Name="UserName" Text="{Binding UserName}" Placeholder="User Name"   
+                           PlaceholderColor="Blue"    
+                           Keyboard="Default"  />
               <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
                            PlaceholderColor="Blue"    
                            Keyboard="Email"  />  
