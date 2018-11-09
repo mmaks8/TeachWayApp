@@ -4,8 +4,8 @@
              x:Class="Proto2.Views.SignUpView"
              Title="Sign Up">
              
-       <ContentPage.Content>
-		       <StackLayout VerticalOptions="StartAndExpand"> 
+   <ContentPage.Content>
+	<StackLayout VerticalOptions="StartAndExpand"> 
               <Entry x:Name="FirstName" Text="{Binding FirstName}" Placeholder="First Name"   
                            PlaceholderColor="Blue"    
                            Keyboard="Default"  />
@@ -24,7 +24,8 @@
               <Entry x:Name="ConfirmPassword" Text="{Binding ConfirmPassword}" Placeholder="Confirm Password"   
                            PlaceholderColor="Blue"   
                            IsPassword="True" />
-              <Button Text="SignUp" Command="{Binding SignUpCommand}"></Button>
+              <Button Text="Sign Up" Clicked="OnSignUpButtonClicked" />
+	      <Label x:Name="messageLabel" />
               
               </StackLayout>
 	</ContentPage.Content>
