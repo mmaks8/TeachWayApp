@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using System.Threading.Tasks;
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -13,13 +13,26 @@ using Android.Widget;
 
 namespace Proto2.Droid
 {
-    [Activity(Label = "SplashActivity", Icon = "@drawable/splashscreen", Theme = "@style/splashscreen", MainLauncher = false, NoHistory = true)]
-    public class SplashActivity : AppCompatActivity
+    [Activity(Label = "SplashActivity", Theme = "@style/Theme.Splash", MainLauncher = true, NoHistory = true)]
+    public class SplashActivity : Activity
     {
+        protected override void OnCreate(Bundle savedInstanceState)
+        {
+            base.OnCreate(savedInstanceState);
+        }
+
         protected override void OnResume()
         {
             base.OnResume();
-            StartActivity(typeof(MainActivity));
+            //StartActivity(typeof(MainActivity));
+            Task startupwork = new Task(() => { SimulateStartup(); });
+            startupwork.Start();
+        }
+
+        async void SimulateStartup()
+        {
+            await Task.Delay(1000);
+            StartActivity(new Intent(Application.Context, typeof(MainActivity)));
         }
     }
 }

@@ -4,14 +4,6 @@
              x:Class="Proto2.Views.MainPage"
              Title="{Binding Title}">
 
-    <ContentPage.ToolbarItems>
-        <ToolbarItem 
-            Text="Sign up"
-
-            Priority="1"
-            />
-    </ContentPage.ToolbarItems>
-
     <StackLayout VerticalOptions="StartAndExpand">
         <Entry Placeholder="Username" />
         <Entry Placeholder="Password" IsPassword="true" />

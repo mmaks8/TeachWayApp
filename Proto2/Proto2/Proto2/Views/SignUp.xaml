@@ -6,7 +6,6 @@
              x:Class="Proto2.Views.SignUp"
              Title="SignUp">
 
-
     <ContentPage.Content>
         <StackLayout VerticalOptions="StartAndExpand">
             <Entry x:Name="FirstName" Text="{Binding FirstName}" Placeholder="First Name"   

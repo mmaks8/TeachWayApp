@@ -4158,6 +4158,9 @@ namespace Proto2.Droid
 			// aapt resource value: 0x7f0c016e
 			public const int Animation_Design_BottomSheetDialog = 2131493230;
 			
+			// aapt resource value: 0x7f0c0192
+			public const int AppCompatDialogStyle = 2131493266;
+			
 			// aapt resource value: 0x7f0c00a9
 			public const int Base_AlertDialog_AppCompat = 2131493033;
 			
@@ -4659,6 +4662,12 @@ namespace Proto2.Droid
 			// aapt resource value: 0x7f0c000e
 			public const int CardView_Light = 2131492878;
 			
+			// aapt resource value: 0x7f0c0190
+			public const int MainTheme = 2131493264;
+			
+			// aapt resource value: 0x7f0c0191
+			public const int MainTheme_Base = 2131493265;
+			
 			// aapt resource value: 0x7f0c002d
 			public const int Platform_AppCompat = 2131492909;
 			
@@ -5049,6 +5058,9 @@ namespace Proto2.Droid
 			// aapt resource value: 0x7f0c0006
 			public const int Theme_MediaRouter_LightControlPanel = 2131492870;
 			
+			// aapt resource value: 0x7f0c018f
+			public const int Theme_Splash = 2131493263;
+			
 			// aapt resource value: 0x7f0c0116
 			public const int ThemeOverlay_AppCompat = 2131493142;
 			
@@ -5336,9 +5348,6 @@ namespace Proto2.Droid
 			
 			// aapt resource value: 0x7f0c000a
 			public const int Widget_MediaRouter_MediaRouteButton = 2131492874;
-			
-			// aapt resource value: 0x7f0c018f
-			public const int splashscreen = 2131493263;
 			
 			static Style()
 			{

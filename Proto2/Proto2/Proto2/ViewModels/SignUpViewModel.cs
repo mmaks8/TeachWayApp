@@ -8,6 +8,9 @@ namespace Proto2.ViewModels
 {
 	public class SignUpViewModel : BindableBase
 	{
-        
+        public SignUpViewModel()
+        {
+
+        }
 	}
 }

@@ -3684,6 +3684,7 @@ containing a value of this type.
         public static final int Animation_AppCompat_DropDownUp=0x7f0c00a7;
         public static final int Animation_AppCompat_Tooltip=0x7f0c00a8;
         public static final int Animation_Design_BottomSheetDialog=0x7f0c016e;
+        public static final int AppCompatDialogStyle=0x7f0c0192;
         public static final int Base_AlertDialog_AppCompat=0x7f0c00a9;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0c00aa;
         public static final int Base_Animation_AppCompat_Dialog=0x7f0c00ab;
@@ -3851,6 +3852,10 @@ containing a value of this type.
         public static final int CardView=0x7f0c000b;
         public static final int CardView_Dark=0x7f0c000d;
         public static final int CardView_Light=0x7f0c000e;
+        public static final int MainTheme=0x7f0c0190;
+        /**  Base theme applied no matter what API 
+         */
+        public static final int MainTheme_Base=0x7f0c0191;
         public static final int Platform_AppCompat=0x7f0c002d;
         public static final int Platform_AppCompat_Light=0x7f0c002e;
         public static final int Platform_ThemeOverlay_AppCompat=0x7f0c008e;
@@ -3981,6 +3986,7 @@ containing a value of this type.
         public static final int Theme_MediaRouter_Light=0x7f0c0004;
         public static final int Theme_MediaRouter_Light_DarkControlPanel=0x7f0c0005;
         public static final int Theme_MediaRouter_LightControlPanel=0x7f0c0006;
+        public static final int Theme_Splash=0x7f0c018f;
         public static final int ThemeOverlay_AppCompat=0x7f0c0116;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0c0117;
         public static final int ThemeOverlay_AppCompat_Dark=0x7f0c0118;
@@ -4077,7 +4083,6 @@ containing a value of this type.
         public static final int Widget_Design_TextInputLayout=0x7f0c0187;
         public static final int Widget_MediaRouter_Light_MediaRouteButton=0x7f0c0009;
         public static final int Widget_MediaRouter_MediaRouteButton=0x7f0c000a;
-        public static final int splashscreen=0x7f0c018f;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
