@@ -7,7 +7,7 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem 
             Text="Sign up"
-            
+
             Priority="1"
             />
     </ContentPage.ToolbarItems>
@@ -16,6 +16,7 @@
         <Entry Placeholder="Username" />
         <Entry Placeholder="Password" IsPassword="true" />
         <Button Text="Log in" VerticalOptions="CenterAndExpand"/>
+        <Button Text="Sign up" VerticalOptions="CenterAndExpand" Command="{Binding NavigateToSignUpCommand}"/>
     </StackLayout>
 
 </ContentPage>

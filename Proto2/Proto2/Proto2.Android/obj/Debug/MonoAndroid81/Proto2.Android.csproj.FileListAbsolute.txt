@@ -102,6 +102,7 @@ C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\bin\Debug\Proto2.Android.dll
+C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\linksrc\Proto2.pdb
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\linksrc\Proto2.Android.dll.mdb
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\linksrc\Prism.dll.mdb

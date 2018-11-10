@@ -30,6 +30,7 @@ namespace Proto2
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
+            containerRegistry.RegisterForNavigation<SignUp, SignUpViewModel>();
         }
     }
 }
