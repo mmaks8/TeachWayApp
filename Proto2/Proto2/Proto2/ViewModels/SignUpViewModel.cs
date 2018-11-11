@@ -71,6 +71,10 @@ namespace Proto2.ViewModels
 				{
 					OnSignUpButtonClicked = null;	
 				}
+			else
+			{
+				messageLabel = "Invalid information given / Missing Information";
+			}
 		}
 				
 		public SignUpViewModel()
