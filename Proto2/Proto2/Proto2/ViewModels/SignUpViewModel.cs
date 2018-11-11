@@ -8,9 +8,12 @@ namespace Proto2.ViewModels
 {
 	public class SignUpViewModel : BindableBase
 	{
-        public SignUpViewModel()
-        {
-
-        }
+       		private string _firstname;
+		
+		public string FirstName
+		{
+			get { return _firstname;}
+			set {SetProperty(ref _firstname, value);}
+		}
 	}
 }
