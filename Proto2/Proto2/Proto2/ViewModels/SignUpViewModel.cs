@@ -45,6 +45,34 @@ namespace Proto2.ViewModels
 			set {SetProperty(ref _confirmpassword, value);}
 		}
 		
+		partial void CheckValid ()
+		{
+			if(FirstName != null)
+				{
+					OnSignUpButtonClicked = null;	
+				}
+			if(LastName != null)
+				{
+					OnSignUpButtonClicked = null;	
+				}
+			if(UserName != null)
+				{
+					OnSignUpButtonClicked = null;	
+				}
+			if(Email != null)
+				{
+					OnSignUpButtonClicked = null;	
+				}
+			if(Password != null)
+				{
+					OnSignUpButtonClicked = null;	
+				}
+			if(ConfirmPassword != null)
+				{
+					OnSignUpButtonClicked = null;	
+				}
+		}
+				
 		public SignUpViewModel()
 		{
 		
