@@ -14,5 +14,10 @@ namespace Proto2.Views
             InitializeComponent();
             this.BindingContext = new ViewModels.SignUpViewModel ();
         }
+        
+        private async void OnSignUpButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MainPage());
+        }
     }
 }
