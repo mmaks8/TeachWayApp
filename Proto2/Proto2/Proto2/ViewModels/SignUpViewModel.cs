@@ -9,6 +9,7 @@ namespace Proto2.ViewModels
 	public class SignUpViewModel : BindableBase
 	{
 <<<<<<< HEAD
+<<<<<<< HEAD
         private string _firstName;
         private string _lastName;
         private string _username;
@@ -45,6 +46,8 @@ namespace Proto2.ViewModels
             
         }
 =======
+=======
+>>>>>>> 9c583f574cc3a96ac71e7a2c83020bfa4840699a
        		private string _firstName;
 		private string _lastName;
 		private string _userName;
@@ -118,6 +121,9 @@ namespace Proto2.ViewModels
 		{
 		
 		}
+<<<<<<< HEAD
 >>>>>>> 40275e700d57bdb316b1ce8312312cc77ca1c976
+=======
+>>>>>>> 9c583f574cc3a96ac71e7a2c83020bfa4840699a
 	}
 }
