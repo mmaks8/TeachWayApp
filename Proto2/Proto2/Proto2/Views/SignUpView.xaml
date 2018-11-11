@@ -6,6 +6,7 @@
              
    <ContentPage.Content>
 	<StackLayout VerticalOptions="StartAndExpand"> 
+		<ScrollView>
               <Entry x:Name="FirstName" Text="{Binding FirstName}" Placeholder="First Name"   
                            PlaceholderColor="Blue"    
                            Keyboard="Default"  />
@@ -25,8 +26,10 @@
                            PlaceholderColor="Blue"   
                            IsPassword="True" />
               <Button Text="Sign Up" Clicked="OnSignUpButtonClicked" />
-	      <Label x:Name="messageLabel" />
+	      <Label Text="{Binding messageLabel}"
+		     HorizontalOption="Center" />
               
+		</ScrollView>
               </StackLayout>
 	</ContentPage.Content>
 </ContentPage>
