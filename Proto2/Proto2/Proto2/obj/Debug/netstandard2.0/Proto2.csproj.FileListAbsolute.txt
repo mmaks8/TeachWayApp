@@ -9,5 +9,6 @@ C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\Proto2.
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\Proto2.AssemblyInfo.cs
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\Proto2.dll
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\Proto2.pdb
-C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\Views\SignUp.xaml.g.cs
+C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2\obj\Debug\netstandard2.0\XamlC.stamp

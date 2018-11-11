@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "Proto2.Android.dll" comes first in this list. */
 		"Proto2.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Prism.dll",
 		"Prism.Forms.dll",
 		"Prism.Unity.Forms.dll",

@@ -3,6 +3,7 @@ C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Java.Interop.dll
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.dll
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.dll
+C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Newtonsoft.Json.dll
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Prism.dll
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Prism.Forms.dll
 C:\Users\MaKs\source\repos\Proto2\Proto2\Proto2.Android\obj\Debug\MonoAndroid81\android\assets\Prism.Unity.Forms.dll

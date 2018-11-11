@@ -7,7 +7,7 @@
     <StackLayout VerticalOptions="StartAndExpand">
         <Entry Placeholder="Username" />
         <Entry Placeholder="Password" IsPassword="true" />
-        <Button Text="Log in" VerticalOptions="CenterAndExpand"/>
+        <Button Text="Log in" VerticalOptions="CenterAndExpand" Command="{Binding NavigateToHomePageCommand}"/>
         <Button Text="Sign up" VerticalOptions="CenterAndExpand" Command="{Binding NavigateToSignUpCommand}"/>
     </StackLayout>
 

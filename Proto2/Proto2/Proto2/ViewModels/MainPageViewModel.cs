@@ -13,12 +13,14 @@ namespace Proto2.ViewModels
         private INavigationService _navigationService;
 
         public DelegateCommand NavigateToSignUpCommand { get; private set; }
+        public DelegateCommand NavigateToHomePageCommand { get; private set; }
 
         public MainPageViewModel(INavigationService navigationService)
             : base(navigationService)
         {
             _navigationService = navigationService;
             NavigateToSignUpCommand = new DelegateCommand(NavigateToSignUp);
+            NavigateToHomePageCommand = new DelegateCommand(NavigateToHomePage);
 
             Title = "TeachWay";
         }
@@ -26,6 +28,11 @@ namespace Proto2.ViewModels
         private void NavigateToSignUp()
         {
             _navigationService.NavigateAsync("SignUp");
+        }
+
+        private void NavigateToHomePage()
+        {
+            _navigationService.NavigateAsync("HomePage");
         }
     }
 }
