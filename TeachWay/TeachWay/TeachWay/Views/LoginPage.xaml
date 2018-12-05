@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="TeachWay.Views.LoginPage"
+             Title="{Binding Title}">
+    <StackLayout    Orientation="Vertical" Padding="30" Spacing="5">
+        <BoxView HeightRequest="10"/>
+        <Frame BackgroundColor="#3399ff" HasShadow="False">
+            <StackLayout Orientation="Vertical" Spacing="10">
+                <Entry x:Name="Email" Placeholder="email/username"   
+                           PlaceholderColor="White" HeightRequest="40"   
+                           Keyboard="Email"  
+                           TextColor="White"/>
+                <Entry x:Name="Password" Placeholder="password"   
+                           PlaceholderColor="White" HeightRequest="40"   
+                           IsPassword="True"  
+                           TextColor="White"/>
+            </StackLayout>
+        </Frame>
+        <Button Text="Log in" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToHomePageCommand}"/>
+        <Button Text="Sign up" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToSignUpCommand}"/>
+    </StackLayout>
+</ContentPage>

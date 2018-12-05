@@ -1,0 +1,14 @@
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\bin\Debug\netstandard2.0\TeachWay.deps.json
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\bin\Debug\netstandard2.0\TeachWay.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\bin\Debug\netstandard2.0\TeachWay.pdb
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\Views\SignUpPage.xaml.g.cs
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\TeachWay.csproj.CoreCompileInputs.cache
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\TeachWay.AssemblyInfoInputs.cache
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\TeachWay.AssemblyInfo.cs
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\TeachWay.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay\obj\Debug\netstandard2.0\TeachWay.pdb
