@@ -4,7 +4,7 @@ using TeachWay.Models;
 
 namespace TeachWay.Data
 {
-    interface IRestService
+    public interface IRestService
     {
         Task<List<GetRequirements>> RefreshDataAsync();
     }

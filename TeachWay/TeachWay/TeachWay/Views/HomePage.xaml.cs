@@ -1,4 +1,5 @@
 ﻿using Xamarin.Forms;
+using System;
 
 namespace TeachWay.Views
 {
@@ -8,5 +9,14 @@ namespace TeachWay.Views
         {
             InitializeComponent();
         }
+
+        protected async override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            listView.ItemsSource = await App.GetManager.GetTasksAsync();
+        }
+
+
     }
 }

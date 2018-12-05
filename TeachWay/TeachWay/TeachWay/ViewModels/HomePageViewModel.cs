@@ -8,6 +8,6 @@ namespace TeachWay.ViewModels
 {
 	public class HomePageViewModel : BindableBase
 	{
-       
-	}
+        
+    }
 }

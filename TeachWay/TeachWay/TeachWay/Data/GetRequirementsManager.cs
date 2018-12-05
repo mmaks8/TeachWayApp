@@ -7,7 +7,7 @@ using TeachWay.Models;
 namespace TeachWay.Data
 
 {
-    class GetRequirementsManager
+    public class GetRequirementsManager
     {
         IRestService restService;
 

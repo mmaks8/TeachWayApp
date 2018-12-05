@@ -11,7 +11,7 @@ using TeachWay.Models;
 namespace TeachWay.Data
 
 {
-    class RestService : IRestService
+    public class RestService : IRestService
     {
         HttpClient client;
 

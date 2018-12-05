@@ -1,5 +1,6 @@
 ﻿using Prism;
 using Prism.Ioc;
+using TeachWay.Data;
 using TeachWay.ViewModels;
 using TeachWay.Views;
 using Xamarin.Forms;
@@ -15,6 +16,9 @@ namespace TeachWay
          * This imposes a limitation in which the App class must have a default constructor. 
          * App(IPlatformInitializer initializer = null) cannot be handled by the Activator.
          */
+
+       public static GetRequirementsManager GetManager { get; set; }
+
         public App() : this(null) { }
 
         public App(IPlatformInitializer initializer) : base(initializer) { }
@@ -23,6 +27,7 @@ namespace TeachWay
         {
             InitializeComponent();
 
+            GetManager = new GetRequirementsManager(new RestService());
             await NavigationService.NavigateAsync("NavigationPage/LoginPage");
         }
 

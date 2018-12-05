@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TeachWay.Models
 {
-    class GetRequirements
+    public class GetRequirements
     {
         public string ID { get; set; }
 
