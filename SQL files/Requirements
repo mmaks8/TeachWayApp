@@ -1,0 +1,100 @@
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (,'', '', );
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (1,'T.B. Test &Health Form', 'Get the TB Test (and health form) by the CSUSM Health Service or your private physician. Retain a copy of the form to submit later. Your TB test must be current for the duration of the program so remember to renew it when necessary.', 1);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (2,'Certificate of Clearance (fingerprints)', 'Get fingerprinted for the Certificate of Clearance. See the How to apply for Certificate of Clearance flyer. After submitting application on-line, print confirmation of payment and retain proof of payment to submit later.', 1);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (3,'CPR Training Certificate', 'Get trained in Infant, Child, and Adult CPR to obtain the certificate. This must be current/valid for the duration of the program so remember to renew when necessary.', 1);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (4,'CBEST', 'Take the Basic Skills exam (CBEST). Download a copy of your passing score. Retain a copy to submit later on.', 2);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (5,'Align Undergrad', 'Align your undergraduate plan with what is recommended for credential programs (i.e., Liberal Studies for Multiple Subject credential program).', 3);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (6,'U.S. Constitution', 'Take this course (or equivalent) in the lower division education plan. It must be completed by the end of the credential program.', 3);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (7,'Health Education', 'Take this course (or equivalent) in the lower division education plan. It must be completed by the end of the credential program.', 3);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (8,'SPAN 250', 'If you are already a fluent speaker of Spanish, take SPAN 250 Spanish for Native Speakers to complete the BA language requirement (LOTER) Or Successful completion of Spanish AP Exams, (= 6 units).', 4);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (9,'T.B. Test & Health Form', 'If you have not already done so, get the TB Test (and health form) and retain a copy.', 5);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (10,'Certificate of Clearance', 'If you have not already done so, get fingerprinted for the Certificate of Clearance. Retain proof of payment.', 5);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (11,'CPR Training Certificate', 'If you have not already done so, get trained in Infant, Child, and Adult CPR and renew when necessary.', 5);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (12,'CBEST', 'If you have not yet done so, take the Basic Skills exam (CBEST). Download, retain a copy of your passing score.', 6);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (13,'CSET Prep', 'Study for the CSET exam', 6);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (14,'Advising Session', 'Attend a general advising session or individual advising session with SOE student services staff.', 7);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (15,'Align Undergrad', 'Align your undergraduate plan with what is recommended for credential programs (i.e., Liberal Studies for Multiple Subject credential program).', 7);
+ 
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (16,'ED 364', 'Take pre-requisite course. EDUC 364', 7);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (17,'U.S. Constitution', 'If you have not already done so, take this course (or equivalent) in the lower division education plan. It must be completed by the end of the credential program.', 7);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (18,'Health Education', 'If you have not already done so, take this course (or equivalent) in the lower division education plan. It must be completed by the end of the credential program.', 7);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (19,'SPAN 250', 'If you have not already done so, take SPAN 250 Spanish for Native Speakers to complete the BA language requirement (LOTER) if you are a fluent speaker of Spanish.', 8);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (20,'I have read all items in years 1 & 2 of the checklist.', 'I have read all items in years 1 & 2 of the checklist.', 9);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (21,'I have marked as complete or incomplete all items in years 1 & 2.', 'I have marked as complete or incomplete all items in years 1 & 2.', 9);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (22,'I completed the Pathway Goals Form for my short-term/long-term goals.', 'I completed the Pathway Goals Form for my short-term/long-term goals.', 9);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (23,'CSET', 'Take the CSET exam(s) as necessary. Keep a copy of your passing scores. Or obtain a waiver if offered through your program of study.', 10);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (24,'CSET Prep', 'Continue to study as needed for CSET exam(s).', 10);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (25,'Advising Session', 'Attend a general advising session or individual advising session with SOE student services staff.', 11);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (26,'ED 350', 'Take pre-requisite course, EDUC 350.', 11);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (27,'Bilingual Authorization Program', 'Make sure you have completed coursework for Spanish language requirement. Become familiar with the SOE Bilingual Authorization program. Begin studying for the CSET LOTE III Spanish Language & Com exam.', 12);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (28,'Education Specialist Program', 'Become familiar with the Education Specialist credential program which prepares teachers with Special Education credentials.', 12);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (29,'Advising Session', 'Make sure to visit SOE Student Services for guidance on credential program admissions.', 13); 
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (30,'Renewals T.B. Test & Health form', 'Renew the following as needed so that they are valid during enrollment in credential program: T.B. Test & Health form. Certificate of Clearance (fingerprints). CPR training certificate', 13);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (31,'3 letters of recommendation', 'Obtain three (3) Letters of Recommendation written within a 6 month period prior to admission into SoE. One must be from a teacher, on district/school letterhead.', 13);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (32,'Admission Interview', 'Participate in credential program admission interviews.', 13);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (33,'Retake CSET as needed to pass', 'Make sure you take and pass the CSET exam(s) or obtain a waiver if offered through your program of study.', 14);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (34,'ED 422', 'Take pre-requisite course, EDUC 422, (or equivalent)', 15);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (35,'Bilingual Authorization Program', 'Make sure you have completed coursework for Spanish language requirement. Become familiar with the SOE Bilingual Authorization program. Begin studying for the CSET LOTE III Spanish Language & Com exam.', 16);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (36,'Education Specialist Program', 'Become familiar with the Education Specialist credential program which prepares teachers with Special Education credentials', 16);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (37,'T.B. Test & Health Form', 'Get the TB Test (and health form) by the CSUSM Health Service or your private physician. Retain a copy of the form to submit later. Your TB test must be current for the duration of the program so remember to renew it when necessary.', 17);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (38,'Certificate of Clearance (fingerprints)', 'Get fingerprinted for the Certificate of Clearance. See the How to apply for Certificate of Clearance flyer. After submitting application on-line, print confirmation of payment and retain proof of payment to submit later.', 17);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (39,'CPR Training Certificate', 'Get trained in Infant, Child, and Adult CPR to obtain the certificate. This must be current/valid for the duration of the program so remember to renew when necessary. ', 17);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (40,'CSET or Subject Matter Waiver Certificate', 'Take the CSET exam(s) as necessary. Keep a copy of your passing scores. Or obtain a waiver if offered through your program of study.', 18);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (41,'CBEST', 'Take the Basic Skills exam (CBEST). Download a copy of your passing score. Retain a copy to submit later on', 18);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (42,'Advising Session', 'Attend a general advising session or individual advising session with SOE student services staff.', 19);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (43,'EDUC 364', 'Take pre-requisite course, EDUC 364', 19);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (44,'EUCD 350', 'Take pre-requisite course, EDUC 350.', );
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (45,'EDUC 422', 'Take pre-requisite course, EDUC 422', 19);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (46,'U.S. Constitution', 'Take this course (or equivalent) in the lower division education plan. It must be completed by the end of the credential program. ', 19);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (47,'Health Education', 'Take this course (or equivalent) in the lower division education plan. It must be completed by the end of the credential program. ', 19);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (48,'Bilingual Authorization Program', 'Make sure you have completed coursework for Spanish language requirement. Become familiar with the SOE Bilingual Authorization program. Begin studying for the CSET LOTE III Spanish Language & Com exam.', 20);
+
+INSERT INTO REQUIREMENTS (ID,TITLE,DESCRIPTION,CATEGORY) VALUES (49,'Education Specialist Program', 'Become familiar with the Education Specialist credential program which prepares teachers with Special Education credentials.', 20);
+
