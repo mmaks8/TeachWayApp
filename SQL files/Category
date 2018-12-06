@@ -1,0 +1,39 @@
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 1 Pre-requisite Items', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 1 Testing', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 1 Educational Plan & Courses', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 1 Preparation for Spanish/English Bilingual Authorization', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 2 Pre-requisite Items', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 2 Testing', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 2 Educational Plan & Courses', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 2 Preparation for Bilingual Authorization', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 3 Pre-requisite Items', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 3 Testing', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 3 Educational Plan & Courses', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 3 Preparation for Bilingual Authorization & for ED Specialists', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 4 Pre-requisite Items', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 4 Testing', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 4 Educational Plan & Courses', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('YEAR 4 Preparation for Bilingual Authorization & for ED Specialists', 0, 1);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('Post Bac Pre-requisite Items', 1, 0);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('Post Bac Testing', 1, 0);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('Post Bac Educational Credential Course Requirements – Prequisite/Corequisites', 1, 0);
+
+INSERT INTO CATEGORY (TITLE, ISPOST, ISUNDER) VALUES ('Post Bac Preparation for Spanish/English Bilingual Authorization and/or Special Education Program. These credentials added to an initial elementary or secondary credential increase job opportunities.', 1, 0);
