@@ -14,5 +14,6 @@ namespace TeachWay.Models
     public class User
     {
         public int ACCOUNT { get; set; }
+        public int ISGRAD { get; set; }
     }
 }

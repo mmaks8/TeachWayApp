@@ -36,6 +36,7 @@ namespace TeachWay.Data
 
                 var u = new User();
                 u.ACCOUNT = 2;
+                u.ISGRAD = 0;   //Undergraduate list is 0 and Graduate list is 1
                 var j = JsonConvert.SerializeObject(u);
 
                 var response = await client.PostAsync(url, new StringContent(j));

@@ -52,8 +52,10 @@ C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Xamarin.
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Prism.dll.mdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Mono.Android.Export.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.Export.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\Newtonsoft.Json.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\Prism.Forms.pdb
@@ -83,6 +85,7 @@ C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\TeachWay
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Prism.dll.mdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\TeachWay.Android.dll.mdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.pdb
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.Export.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb

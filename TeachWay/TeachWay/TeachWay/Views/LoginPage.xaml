@@ -19,7 +19,8 @@
                            TextColor="White"/>
             </StackLayout>
         </Frame>
-        <Button Text="Log in" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToHomePageCommand}"/>
+        <Button Text="Log in" TextColor="White" HorizontalOptions="FillAndExpand" />
         <Button Text="Sign up" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToSignUpCommand}"/>
+        <Button Text="No account login" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToHomePageCommand}"/>
     </StackLayout>
 </ContentPage>

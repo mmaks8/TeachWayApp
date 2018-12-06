@@ -1,7 +1,9 @@
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\TeachWay.Android.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\ExifLib.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Java.Interop.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.Export.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Newtonsoft.Json.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Prism.dll
@@ -40,6 +42,13 @@ C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndr
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\XLabs.Core.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\XLabs.Forms.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\XLabs.Forms.Droid.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\XLabs.Ioc.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\XLabs.Platform.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\XLabs.Platform.Droid.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\XLabs.Serialization.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Diagnostics.Debug.dll
@@ -73,3 +82,10 @@ C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndr
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.XPath.XDocument.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Primitives.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Threading.Tasks.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Resources.ResourceManager.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Text.Encoding.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Globalization.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\System.Text.RegularExpressions.dll
