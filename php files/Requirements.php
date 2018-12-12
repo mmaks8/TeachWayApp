@@ -13,6 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 	 //for user account number
 	$ISGRAD = $obj[ISGRAD];
 
+
 	//connect to the database
 	$connection = mysqli_connect(DB_HOST, DB_USER, DB_PASS,DB_DATABASE,DB_PORT);
     if (!$connection)
@@ -27,7 +28,6 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
 		//sql string 
     	$SQLstring = "SELECT REQUIREMENTS.TITLE AS TITLE, REQUIREMENTS.DESCRIPTION AS DESCRIPTION, REQUIREMENTS.ID AS ID FROM REQUIREMENTS,CATEGORY WHERE REQUIREMENTS.CATEGORY = CATEGORY.ID AND CATEGORY.ISPOST = 1";
-    	echo"1";
 
 	}
 		//query being executed
