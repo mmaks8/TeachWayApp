@@ -18,6 +18,7 @@ namespace TeachWay
          */
 
        public static GetRequirementsManager GetManager { get; set; }
+       public static SecondGetManager GetManagerTwo { get; set; }
 
         public App() : this(null) { }
 
@@ -28,6 +29,7 @@ namespace TeachWay
             InitializeComponent();
 
             GetManager = new GetRequirementsManager(new RestService());
+            GetManagerTwo = new SecondGetManager(new SecondRestService());
             await NavigationService.NavigateAsync("NavigationPage/LoginPage");
         }
 
@@ -38,6 +40,8 @@ namespace TeachWay
             containerRegistry.RegisterForNavigation<LoginPage, LoginPageViewModel>();
             containerRegistry.RegisterForNavigation<SignUpPage, SignUpPageViewModel>();
             containerRegistry.RegisterForNavigation<HomePage, HomePageViewModel>();
+            containerRegistry.RegisterForNavigation<QPage, QPageViewModel>();
+            containerRegistry.RegisterForNavigation<SecondHomePage, SecondHomePageViewModel>();
         }
     }
 }

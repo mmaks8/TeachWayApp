@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using TeachWay.Models;
 
 namespace TeachWay.Data
-
 {
     public class GetRequirementsManager
     {
@@ -20,5 +19,6 @@ namespace TeachWay.Data
         {
             return restService.RefreshDataAsync();
         }
+
     }
 }

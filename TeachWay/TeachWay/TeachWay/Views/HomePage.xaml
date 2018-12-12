@@ -15,7 +15,8 @@
                         <controls:CheckBox  DefaultText="{Binding TITLE}"
                                             HorizontalOptions="FillAndExpand"
                                             FontSize="14"
-                                            FontName="AmericanTypeWriter"/>
+                                            FontName="AmericanTypeWriter"
+                                            />
                     </StackLayout>
                 </ViewCell>
             </DataTemplate>

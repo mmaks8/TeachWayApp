@@ -3700,8 +3700,8 @@ namespace TeachWay.Droid
 			// aapt resource value: 0x7F090053
 			public const int abc_vector_test = 2131296339;
 			
-			// aapt resource value: 0x7F010307
-			public const int ad16 = 2130772743;
+			// aapt resource value: 0x7F010309
+			public const int ad16 = 2130772745;
 			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
@@ -3709,8 +3709,8 @@ namespace TeachWay.Droid
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
-			// aapt resource value: 0x7F010308
-			public const int calendar_bg_selector = 2130772744;
+			// aapt resource value: 0x7F010310
+			public const int calendar_bg_selector = 2130772752;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -4365,6 +4365,12 @@ namespace TeachWay.Droid
 			
 			// aapt resource value: 0x7F010003
 			public const int splash_centered = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int TeachWay_logo = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int TeachWay_logo2 = 2130771973;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
