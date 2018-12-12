@@ -13,6 +13,7 @@ namespace TeachWay.ViewModels
 
         public DelegateCommand NavigateToSignUpCommand { get; private set; }
         public DelegateCommand NavigateToHomePageCommand { get; private set; }
+        public DelegateCommand NavigateToQPageCommand { get; private set; }
 
         public LoginPageViewModel(INavigationService navigationService)
             : base(navigationService)
@@ -22,6 +23,7 @@ namespace TeachWay.ViewModels
             _navigationService = navigationService;
             NavigateToSignUpCommand = new DelegateCommand(NavigateToSignUpPage);
             NavigateToHomePageCommand = new DelegateCommand(NavigateToHomePage);
+            NavigateToQPageCommand = new DelegateCommand(NavigateToQPage);
         }
 
         private void NavigateToSignUpPage()
@@ -32,6 +34,11 @@ namespace TeachWay.ViewModels
         private void NavigateToHomePage()
         {
             _navigationService.NavigateAsync("HomePage");
+        }
+
+        private void NavigateToQPage()
+        {
+            _navigationService.NavigateAsync("QPage");
         }
     }
 }

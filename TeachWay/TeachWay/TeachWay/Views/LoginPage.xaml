@@ -4,23 +4,42 @@
              xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
              prism:ViewModelLocator.AutowireViewModel="True"
              x:Class="TeachWay.Views.LoginPage"
-             Title="{Binding Title}">
-    <StackLayout    Orientation="Vertical" Padding="30" Spacing="5">
-        <BoxView HeightRequest="10"/>
-        <Frame BackgroundColor="#3399ff" HasShadow="False">
-            <StackLayout Orientation="Vertical" Spacing="10">
-                <Entry x:Name="Email" Placeholder="email/username"   
-                           PlaceholderColor="White" HeightRequest="40"   
-                           Keyboard="Email"  
-                           TextColor="White"/>
-                <Entry x:Name="Password" Placeholder="password"   
-                           PlaceholderColor="White" HeightRequest="40"   
-                           IsPassword="True"  
-                           TextColor="White"/>
+             BackgroundColor="#bababa">
+    <ContentPage.Content>
+        <Grid   BackgroundColor="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1" Margin="20,0,20,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <StackLayout Orientation="Horizontal" HeightRequest="600">
+                    <Image Source="TeachWay_logo2.png" WidthRequest="300" Aspect="AspectFit" />
+                </StackLayout>
+                <Entry Grid.Row="1" Placeholder="Email" PlaceholderColor="#bababa" FontSize="16"/>
+                <Entry Grid.Row="2" Placeholder="Password" PlaceholderColor="#bababa" FontSize="16" IsPassword="True"/>
+                <Button Text="Log in" BackgroundColor="#3897f0" TextColor="White" HeightRequest="50" VerticalOptions="Start" Grid.Row="3"/>
+                <Button Text="No Account? No Problem" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToQPageCommand}" Grid.Row="4" FontSize="12"/>
+                <Grid Grid.Row="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Grid>
+            <StackLayout Grid.Row="2" BackgroundColor="#ffffff">
+                <Button Text="Need an Account? Sign up here" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToSignUpCommand}"/>
             </StackLayout>
-        </Frame>
-        <Button Text="Log in" TextColor="White" HorizontalOptions="FillAndExpand" />
-        <Button Text="Sign up" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToSignUpCommand}"/>
-        <Button Text="No account login" TextColor="White" HorizontalOptions="FillAndExpand" Command="{Binding NavigateToHomePageCommand}"/>
-    </StackLayout>
+        </Grid>
+    </ContentPage.Content>
 </ContentPage>

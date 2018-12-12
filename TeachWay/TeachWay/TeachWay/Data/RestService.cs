@@ -7,6 +7,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using TeachWay.Models;
+using TeachWay.ViewModels;
+using TeachWay.Views;
 
 namespace TeachWay.Data
 
@@ -35,8 +37,7 @@ namespace TeachWay.Data
             {
 
                 var u = new User();
-                u.ACCOUNT = 2;
-                u.ISGRAD = 0;   //Undergraduate list is 0 and Graduate list is 1
+                u.ISGRAD = 1;   //Undergraduate list is 0 and Graduate list is 1
                 var j = JsonConvert.SerializeObject(u);
 
                 var response = await client.PostAsync(url, new StringContent(j));

@@ -10,6 +10,8 @@ namespace TeachWay.Models
 
         public string TITLE { get; set; }
 
+        public string DESCRIPTION { get; set; }
+
     }
     public class User
     {

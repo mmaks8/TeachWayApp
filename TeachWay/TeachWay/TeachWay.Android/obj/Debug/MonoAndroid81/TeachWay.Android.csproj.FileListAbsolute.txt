@@ -1,10 +1,10 @@
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\TeachWay.Android.csprojAssemblyReference.cache
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\TeachWay.Android.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\TeachWay.Android.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\com.companyname.appname.apk
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\com.companyname.appname-Signed.apk
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\TeachWay.dll
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\TeachWay.pdb
-C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\TeachWay.Android.csprojAssemblyReference.cache
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\res.flag
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\TeachWay.Android.csproj.CoreCompileInputs.cache
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\XamlC.stamp
@@ -22,10 +22,13 @@ C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndr
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\res\values\styles.xml
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\res\drawable\splash_centered.xml
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\res\drawable\splashscreen.png
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\res\drawable\teachway_logo.png
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\res\drawable\teachway_logo2.png
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\R.cs.flag
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\R.txt
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\uploadflags.txt
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Mono.Android.Export.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Mono.Android.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Mono.Security.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\mscorlib.pdb
@@ -52,7 +55,6 @@ C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Xamarin.
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Prism.dll.mdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\Mono.Android.Export.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.Export.pdb
@@ -111,5 +113,6 @@ C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndr
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\bin\Debug\TeachWay.Android.dll
+C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\TeachWay.pdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\TeachWay.Android.dll.mdb
 C:\Users\MaKs\source\repos\TeachWay\TeachWay\TeachWay.Android\obj\Debug\MonoAndroid81\linksrc\Prism.dll.mdb
