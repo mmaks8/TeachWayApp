@@ -5,6 +5,7 @@
              prism:ViewModelLocator.AutowireViewModel="True"
              x:Class="TeachWay.Views.SignUpPage">
 
+
     <StackLayout Padding="20" Spacing="5">
         <Frame>
             <Entry x:Name="FirstName" Text="{Binding FirstName}" Placeholder="First Name"
