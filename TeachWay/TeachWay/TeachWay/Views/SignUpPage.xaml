@@ -5,26 +5,37 @@
              prism:ViewModelLocator.AutowireViewModel="True"
              x:Class="TeachWay.Views.SignUpPage">
 
-    <StackLayout>
-        <Entry x:Name="FirstName" Text="{Binding FirstName}" Placeholder="First Name"   
-                           PlaceholderColor="Blue"    
+  <ContentPage.Content>    
+  <StackLayout Padding="20" Spacing="5">
+    <Frame BackgroundColor="Aqua" HasShadow="False">
+        <Entry x:Name="FirstName" Text="{Binding FirstName}" Placeholder="First Name"
+                           WidthRequest="150"
+                           PlaceholderColor="Gray"    
                            Keyboard="Default"  />
         <Entry x:Name="LastName" Text="{Binding LastName}" Placeholder="Last Name"   
-                           PlaceholderColor="Blue"    
+                           WidthRequest="150"
+                           PlaceholderColor="Gray"    
                            Keyboard="Default"  />
         <Entry x:Name="UserName" Text="{Binding UserName}" Placeholder="User Name"   
-                           PlaceholderColor="Blue"    
+                           WidthRequest="150"
+                           PlaceholderColor="Gray"    
                            Keyboard="Default"  />
         <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
-                           PlaceholderColor="Blue"    
+                           WidthRequest="150"
+                           PlaceholderColor="Gray"    
                            Keyboard="Email"  />
         <Entry x:Name="Password" Text="{Binding Password}" Placeholder="Password"   
-                           PlaceholderColor="Blue"   
+                           WidthRequest="150"
+                           PlaceholderColor="Gray"   
                            IsPassword="True" />
         <Entry x:Name="ConfirmPassword" Text="{Binding ConfirmPassword}" Placeholder="Confirm Password"   
-                           PlaceholderColor="Blue"   
+                           WidthRequest="150"
+                           PlaceholderColor="Gray"   
                            IsPassword="True" />
-        <Button Text="Sign Up" />
+      
+    <StackLayout Orientation="Horizontal"> 
+            <Button BackgroundColor="Red" TextColor="White" Text="Sign Up" />
     </StackLayout>
-  
+   </StackLayout>
+  </ContentPage.Content> 
 </ContentPage>
